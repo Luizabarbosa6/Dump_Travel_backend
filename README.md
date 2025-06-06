@@ -34,7 +34,7 @@
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/dump_travel.git
+git clone https://github.com/seu-usuario/dump_travel_FrontEnd.git
 cd dump_travel
 2. Inicie o banco de dados MongoDB
 Certifique-se de que o MongoDB esteja em execução localmente na sua máquina.
@@ -45,7 +45,7 @@ Editar
 # Exemplo em sistemas que usam MongoDB via CLI
 mongod
 3. Instale e inicie o Backend
-bash
+git clone https://github.com/seu-usuario/dump_travel_backend.git
 Copiar
 Editar
 cd backend
